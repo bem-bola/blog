@@ -1,0 +1,16 @@
+/.env
+/sample.env
+/.vscode
+/config/*
+/data/*
+/logs/*
+.DS_Store
+/buildtest
+
+/www/.env.local
+/www/.env.local.php
+/www/.env.*.local
+/www/config/secrets/prod/prod.decrypt.private.php
+/www/public/bundles/
+/www/var/
+/www/vendor/
